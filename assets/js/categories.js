@@ -1,0 +1,21 @@
+const categorias = [
+  { id: 1, nombre: "Juguetes", imagen: "assets/img/categorias/juguetes.jpg" },
+  { id: 2, nombre: "Juegos de mesa", imagen: "assets/img/categorias/juegos-mesa.jpg" },
+  { id: 3, nombre: "Bolígrafos", imagen: "assets/img/categorias/boligrafos.jpg" },
+  { id: 4, nombre: "Cuadernos", imagen: "assets/img/categorias/cuadernos.jpg" },
+  { id: 5, nombre: "Binders", imagen: "assets/img/categorias/binders.jpg" },
+  { id: 6, nombre: "Stickers", imagen: "assets/img/categorias/stickers.jpg" },
+  { id: 7, nombre: "Llaveros", imagen: "assets/img/categorias/llaveros.jpg" },
+  { id: 8, nombre: "Lápices", imagen: "assets/img/categorias/lapices.jpg" },
+  { id: 9, nombre: "Colores", imagen: "assets/img/categorias/colores.jpg" },
+  { id: 10, nombre: "Organizadores", imagen: "assets/img/categorias/organizadores.jpg" },
+  { id: 11, nombre: "Scoops", imagen: "assets/img/categorias/scoops.jpg" },
+  { id: 12, nombre: "Cápsulas", imagen: "assets/img/categorias/capsulas.jpg" },
+  { id: 13, nombre: "Washi tapes", imagen: "assets/img/categorias/washi.jpg" },
+  { id: 14, nombre: "Post-its", imagen: "assets/img/categorias/postits.jpg" },
+  { id: 15, nombre: "Peluches", imagen: "assets/img/categorias/peluches.jpg" },
+  { id: 16, nombre: "Calendarios", imagen: "assets/img/categorias/calendarios.jpg" },
+  { id: 17, nombre: "Folder", imagen: "assets/img/categorias/folder.jpg" },
+  { id: 18, nombre: "Vintage", imagen: "assets/img/categorias/vintage.jpg" },
+  { id: 19, nombre: "Sanrio", imagen: "assets/img/categorias/sanrio.jpg" }
+];

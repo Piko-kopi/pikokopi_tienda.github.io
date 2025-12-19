@@ -17,3 +17,18 @@ productos.forEach(p => {
     </div>
   `;
 });
+const categoriasContainer = document.getElementById("categorias-container");
+
+if (categoriasContainer) {
+  categorias.forEach(cat => {
+    categoriasContainer.innerHTML += `
+      <div class="text-center categoria-item">
+        <div class="categoria-circle">
+          <img src="${cat.imagen}" alt="${cat.nombre}">
+        </div>
+        <small class="categoria-text">${cat.nombre}</small>
+      </div>
+    `;
+  });
+}
+
