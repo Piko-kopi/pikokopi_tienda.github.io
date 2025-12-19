@@ -8,9 +8,9 @@ productos.forEach(p => {
         <div class="card-body">
           <h5>${p.nombre}</h5>
           <p>Bs ${p.precio}</p>
-          <button class="btn btn-success w-100"
-            onclick="pedirWhatsapp('${p.nombre}', ${p.precio})">
-            Pedir por WhatsApp
+          <button class="btn btn-primary w-100"
+            onclick="addToCart(${p.id})">
+            Agregar al carrito
           </button>
         </div>
       </div>
