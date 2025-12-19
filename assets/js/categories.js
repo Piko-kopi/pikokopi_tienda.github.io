@@ -1,6 +1,6 @@
 const categorias = [
-  { id: 1, nombre: "Juguetes", imagen: "/assets/img/categorias/juguetes.jpg" },
-  { id: 2, nombre: "Juegos de mesa", imagen: "assets/img/categorias/juegos-mesa.jpg" },
+ { id: 1, nombre: "Juguetes", imagen: "assets/img/categorias/juguete.jpg" },
+  { id: 2, nombre: "Juegos de mesa", imagen: "assets/img/categorias/juguete.jpg" },
   { id: 3, nombre: "Bolígrafos", imagen: "assets/img/categorias/boligrafos.jpg" },
   { id: 4, nombre: "Cuadernos", imagen: "assets/img/categorias/cuadernos.jpg" },
   { id: 5, nombre: "Binders", imagen: "assets/img/categorias/binders.jpg" },
